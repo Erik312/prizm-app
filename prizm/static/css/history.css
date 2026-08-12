@@ -30,7 +30,7 @@ h1{
 
 #ion-logo{
 	font-size: 40px;
-	color: black;
+	color: #4169E1;
 	position: relative;
 	top:5px;
 	cursor: pointer;
@@ -69,7 +69,7 @@ h1{
 
 .nav-button:hover{
 	color: white;
-	background-color: black;
+	background-color: #4169E1;
 	transform: scale(1.1);
 
 }
@@ -101,7 +101,7 @@ h1{
 
 #footer-section{
 	margin-top: 50px;
-	background-color: black;
+	background-color: silver;
 	height: 100%;
 	position: relative;
 	

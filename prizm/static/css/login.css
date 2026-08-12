@@ -30,7 +30,7 @@ h1{
 
 #ion-logo{
 	font-size: 40px;
-	color: black;
+	color: #4169E1;
 	position: relative;
 	top:5px;
 	cursor: pointer;
@@ -94,15 +94,15 @@ h1{
 
 #form-button{
 	color: white;
-	background-color: black;
-	border: black;
+	background-color: #4169E1;
+	border: #4169E1;
 }
 
 
 
 #footer-section{
 
-	background-color: black;
+	background-color: silver;
 	position: absolute;
 	bottom: 0px;
 }
