@@ -55,6 +55,7 @@ a{
 	color:black;
 	font-size: 150%;
 	text-decoration: underline #4169E1 solid 3px;
+	font-weight:900;
 }
 
 .nav-button{
@@ -99,6 +100,7 @@ a{
 	color: white;
 	padding-top: 60px;
 	padding-left: 30px;
+	font-weight: 900;
 }
 
 
@@ -200,7 +202,7 @@ a{
 }
 
 #img-container-1{
-	height: 70%;
+	height: 50%;
 	width: 100%;
 	 background-repeat: no-repeat;
   background-position: center center;
@@ -210,7 +212,7 @@ a{
 }
 
 #img-container-2{
-	height: 70%;
+	height: 50%;
 	width: 100%;
 	background-repeat: no-repeat;
     background-position: center center;
@@ -364,7 +366,7 @@ a{
 	background-color: silver;
 	position: absolute;
 	margin-bottom: 0;
-	height: 75vh;
+	height: 90vh;
 }
 
 #footer-item-list{
